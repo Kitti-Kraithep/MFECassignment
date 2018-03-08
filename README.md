@@ -1,2 +1,2 @@
 # MFECassignment
-2 assignment of interview (Java and Simple web)
+Assignment of interview (Java app.)
